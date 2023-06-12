@@ -17,3 +17,4 @@ Configurando o Phishing no Kali Linux
 
 Resutados
 
+![passwd](https://github.com/Jhonathan458/Initial-commit/assets/134622460/18424365-6da7-4685-944b-5460204df31e)
